@@ -1,0 +1,8 @@
+{
+  "package_id": "com.nickustinov.arkanoid",
+  "name": "arkanoid",
+  "version": "1.0.0",
+  "description": "Arkanoid game for Even G2 smart glasses",
+  "author": "nickustinov",
+  "entrypoint": "index.html"
+}
