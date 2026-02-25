@@ -11,7 +11,7 @@ export const PADDLE_SPEED = 2
 export const BRICK_ROWS = 4
 export const BRICK_START_ROW = 0
 
-export const BALL_SPEED_INIT = 0.6
+export const BALL_SPEED_INIT = 0.8
 export const BALL_SPEED_INC = 0.02
 export const BRICKS_PER_SPEED_BUMP = 10
 export const BALL_SPEED_MAX = 1.0
