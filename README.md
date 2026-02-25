@@ -12,6 +12,8 @@ Scan this QR code in the Even Realities app (Even Hub page) to play on your G2 g
 
 <img src="qr.png" width="200" />
 
+<img src="screenshot.png" width="49%" />
+
 ## Architecture
 
 The game uses three different page layouts, switching between them via `rebuildPageContainer`:
