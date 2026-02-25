@@ -14,7 +14,7 @@ export const BRICK_START_ROW = 0
 export const BALL_SPEED_INIT = 0.7
 export const BALL_SPEED_INC = 0.02
 export const BRICKS_PER_SPEED_BUMP = 10
-export const BALL_SPEED_MAX = 1.0
+export const BALL_SPEED_MAX = 1.1
 export const MIN_DX = 0.15
 
 export const TICK_MS = 50
